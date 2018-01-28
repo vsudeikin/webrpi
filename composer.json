@@ -1,0 +1,13 @@
+{
+    "name": "suval/webrpi",
+    "description": "Package for web control gpio on Raspberry PI",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Valentyn Sudeikin",
+            "email": "vsudeikin@gmail.com"
+        }
+    ],
+    "require": {}
+}
